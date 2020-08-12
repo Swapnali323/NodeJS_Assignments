@@ -1,0 +1,3 @@
+hey!!
+Welcome to the readFile.txt file!!
+file
